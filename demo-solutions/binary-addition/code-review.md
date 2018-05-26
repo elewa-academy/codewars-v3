@@ -75,7 +75,7 @@ ___
 
 ### Event Listener
 
-* Is this handler's event listener declared in index.js?
+* Is this handler's event listener declared in ../public/index.js?
 
 
 
